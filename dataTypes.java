@@ -13,7 +13,7 @@
 public class dataTypes {
 
   public static void main(String[] args) {
-         char a = 'G';
+    char a = 'G';
     int i = 899;
     byte b = 5;
     short s = 56;
@@ -31,3 +31,25 @@ public class dataTypes {
   }
 }
 
+// Reserved Words in Java
+//
+// Any programming language reserves some words to represent functionalities
+// defined by that language. These words are called reserved words. They can be
+// briefly categorized into two parts:
+//
+// Keywords (50): Keywords define functionalities.
+// literals (3): Literals define value.
+//
+//
+//
+// List of Java Reserved Words
+// abstract continue for protected transient
+// Assert Default Goto public Try
+// Boolean Do If Static throws
+// break double implements strictfp Package
+// byte else import super Private
+// case enum Interface Short switch
+// Catch Extends instanceof return void
+// Char Final Int synchronized volatile
+// class finally long throw Date
+// const float Native This while
