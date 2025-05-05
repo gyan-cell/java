@@ -53,3 +53,21 @@ public class dataTypes {
 // Char Final Int synchronized volatile
 // class finally long throw Date
 // const float Native This while
+//
+//
+// Java is statically typed and also a strongly typed language because each type
+// of data (such as integer, character, hexadecimal, packed decimal, and so
+// forth) is predefined as part of the programming language and all constants or
+// variables defined for a given program must be declared with the specific data
+// types.
+
+// Data types in Java are of different sizes and values that can be stored in a
+// variable that is made as per convenience and circumstances to cover up all
+// test cases.
+//
+// The boolean data type represents a logical value that can be either true or
+// false. Conceptually, it represents a single bit of information, but the
+// actual size used by the virtual machine is implementation-dependent and
+// typically at least one byte (eight bits) in practice. Values of the boolean
+// type are not implicitly or explicitly converted to any other type using
+// casts. However, programmers can write conversion code if needed.
