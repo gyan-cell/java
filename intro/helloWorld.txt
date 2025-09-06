@@ -1,0 +1,12 @@
+Java is a high-level, object-oriented programming language developed by Sun Microsystems in 1995. It is mostly used for building desktop applications, web applications, Android apps, and enterprise systems.
+Key Features of Java
+Platform Independent: Java is famous for its Write Once, Run Anywhere (WORA) feature. This means we can write our Java code once, and it will run on any device or operating system if Java Virtual Machine is installed.
+Simple: No complex features like pointers and multiple inheritance, which makes it a good choice for beginners.
+Object-Oriented: This makes code clean and reusable.
+Secured: Since there are no pointers, it has built-in protections to keep our programs secure from common problems like memory leakage and segment fault.
+Multithreading: Programs can do many things at the same time using multiple threads. This is useful for handling complex tasks like processing transactions.
+Just-In-Time (JIT) Compiler: Java uses a JIT compiler. It improves performance by converting the bytecode into machine readable code at the time of execution.
+
+Understanding Hello World Program in Java
+
+When we learn any programming language, the first step is writing a simple program to display "Hello World". So, here is a simple Java program that displays "Hello World" on the screen.

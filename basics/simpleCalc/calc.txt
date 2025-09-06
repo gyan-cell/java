@@ -1,0 +1,3 @@
+We are trying to learn java doing project based learning so we will start by making a simple calculator
+
+Basic arithmetic, switch statements, handling user input.
